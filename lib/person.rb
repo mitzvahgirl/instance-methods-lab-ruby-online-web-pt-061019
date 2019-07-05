@@ -7,7 +7,6 @@ def talk
      ada.talk
      talk
  end  
- end
  
 def walk
   puts "The Person is walking"
@@ -15,4 +14,3 @@ def walk
   ada.walk
   walk
 end  
-end
