@@ -6,11 +6,11 @@ def talk
      ada = Person.new
      ada.talk
  talk
- end
+
  
 def walk
   puts "The Person is walking"
   ada = Person.new
   ada.walk
 walk
-end
+
