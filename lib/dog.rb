@@ -17,4 +17,3 @@ def sit
  fido = Dog.new
  fido.sit
  sit
-end
